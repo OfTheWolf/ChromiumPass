@@ -2,7 +2,7 @@
 Decrypt saved passwords of Chromium-based browsers.
 
 ## Requirements
-- Xcode 15+
+- Xcode 15.3+
 - Swift 5+
 - macOS 14.1+
 
@@ -13,3 +13,6 @@ Decrypt saved passwords of Chromium-based browsers.
 
 ## Demo
 ![Demo](chromiumpass.jpg)
+
+## Disclaimer
+This code is provided for educational purposes only; use it responsibly and within legal boundaries, ensuring all activities are authorized and ethical.
